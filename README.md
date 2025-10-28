@@ -23,7 +23,7 @@ An internship project built to **explore Bootstrap 5** and create an **interacti
 ---
 
 ## 🚀 Live Preview
-🔗 [View on GitHub Pages](https://yourusername.github.io/bootstrap-ui-interactive)
+🔗 (https://poornimamaddukuri.github.io/Bootstrap-5-UI-Exploration-Page-Design/)
 
 ---
 
@@ -49,4 +49,5 @@ An internship project built to **explore Bootstrap 5** and create an **interacti
 **Poornima Maddukuri**  
 📧 your.email@example.com  
 🗓️ Internship Project – Bootstrap 5 Interactive UI Design
+
 
