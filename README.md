@@ -47,7 +47,8 @@ An internship project built to **explore Bootstrap 5** and create an **interacti
 
 ## 👩‍💻 Author
 **Poornima Maddukuri**  
-📧 your.email@example.com  
+📧 poornimamaddukuri05@gmail.com  
 🗓️ Internship Project – Bootstrap 5 Interactive UI Design
+
 
 
